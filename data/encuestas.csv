@@ -1,0 +1,18 @@
+﻿id,region,edad,genero,preferencia,intencion_voto
+1,Metropolitana,25,Femenino,Opcion A,Candidato A
+2,Valparaiso,38,Masculino,Opcion B,Candidato B
+3,Biobio,52,Femenino,Opcion A,Candidato A
+4,Araucania,19,Masculino,Opcion C,Candidato C
+5,Metropolitana,44,Femenino,Opcion B,Candidato B
+6,Valparaiso,31,Masculino,Opcion A,Candidato A
+7,Biobio,27,Femenino,Opcion C,Candidato C
+8,Araucania,63,Femenino,Opcion B,Candidato B
+9,Metropolitana,21,Masculino,Opcion A,Candidato A
+10,Valparaiso,55,Femenino,Opcion C,Candidato C
+11,Metropolitana,29,Femenino,Opcion A,Candidato A
+12,Biobio,41,Masculino,Opcion B,Candidato B
+13,Araucania,36,Femenino,Opcion A,Candidato A
+14,Metropolitana,50,Masculino,Opcion C,Candidato C
+15,Valparaiso,23,Femenino,Opcion B,Candidato B
+16,Arica,69,Femenino,Opcion A,Candidato C
+1,Antofagasta,Masculino,Opcion B,Candidato B
